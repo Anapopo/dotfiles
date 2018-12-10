@@ -1,0 +1,7 @@
+[user]
+	email = favoursmoe@gmail.com
+	name = Anapopo
+	signingkey = FF70AAC7690E6B2C
+[commit]
+	gpgsign = true
+
